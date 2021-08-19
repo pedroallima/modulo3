@@ -6,20 +6,26 @@ Quando trabalhamos em um projeto muitas vezes precisamos testar diferentes funci
 
 1. Abra o terminal e execute os seguintes comandos: 
 
-   a. Escolha uma pasta para criar nosso repositório local e vá até ela. 
+   - [x] Lorem ipsum dolor sit amet
+   - [x] Uma vez dentro da pasta, inicie um repositório git local.
+   - [x] Assim que o repositório for criado, defina nossa identidade (usuário e e-mail).
+   - [x] Crie um arquivo chamado "lorem.txt" e coloque um texto "aleatório" dentro dele.
+   - [x] Adicione o arquivo criado ao stage
+   - [x] Confirmar definitivamente o arquivo adicionado ao stage
 
-   b. Uma vez dentro da pasta, inicie um repositório git local. 
+2. Crie um repositório no GitHub, obtenha seu URL e faça o seguinte: 
 
-   c. Assim que o repositório for criado, defina nossa identidade (usuário e e-mail). 
+   - [x] Configure o endereço do repositório remoto no repositório local para poder compartilhar os arquivos posteriormente. 
 
-   d. Crie um arquivo chamado "lorem.txt" e coloque um texto "aleatório" dentro dele. 
+   - [x] Lerifique o status do repositório local para ver o status do arquivo "lorem.txt".
 
-   e. Adicione o arquivo criado ao stage 
+   - [x] Se tudo estiver ok, envie o arquivo "lorem.txt" para o repositório remoto. 
 
-   f. Confirmar definitivamente o arquivo adicionado ao stage. 
+   - [x] Vá para o GitHub e veja se o arquivo chegou corretamente ao repositório remoto.
 
-   2. Crie um repositório no GitHub, obtenha seu URL e faça o seguinte: 
-   3. a. Configure o endereço do repositório remoto no repositório local para poder compartilhar os arquivos posteriormente. 
-   4. b. Verifique o status do repositório local para ver o status do arquivo "lorem.txt". 
-   5. c. Se tudo estiver ok, envie o arquivo "lorem.txt" para o repositório remoto. 
-   6. d. Vá para o GitHub e veja se o arquivo chegou corretamente ao repositório remoto.
+     
+
+
+
+
+
